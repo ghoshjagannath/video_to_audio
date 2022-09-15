@@ -14,7 +14,7 @@ import easyocr
 
 # os.chdir(r"C:/Users/ghosh/AppData/Local/Programs/Python/Python39/video_to_transcript_complete/photo_folder")
 #video path 
-path=r"C:/Users/ghosh/Downloads/demofile_youtube .mp4"
+path=r"C:/Users/ghosh/Downloads/studyiq.mp4"
 
 #reading the video format 
 capture=cv2.VideoCapture(path)
